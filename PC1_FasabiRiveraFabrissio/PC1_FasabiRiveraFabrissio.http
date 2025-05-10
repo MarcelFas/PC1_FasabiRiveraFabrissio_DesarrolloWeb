@@ -1,0 +1,6 @@
+@PC1_FasabiRiveraFabrissio_HostAddress = http://localhost:5038
+
+GET {{PC1_FasabiRiveraFabrissio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
